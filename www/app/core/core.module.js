@@ -1,1 +1,1 @@
-var core_module = angular.module('app.core', ['ionic']);
+angular.module('app.core', []);
